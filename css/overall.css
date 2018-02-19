@@ -1,0 +1,13 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 0px;
+  
+}
+
+.navbar-brand {
+	padding: 2px;
+}
+
+.navbar-brand img {
+	padding-top: 3px;
+}

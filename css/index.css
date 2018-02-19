@@ -1,0 +1,19 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 2rem;
+}
+
+.jumbotron {
+	text-align: center;
+	/*background-image: url('../images/adam.jpg');
+	background-size: 100% 100%;*/
+	/*background-image: url('../images/hero_image.jpg');*/
+	/*background-image: url('../images/coverPhoto.jpg');*/
+	background-image: url('../images/wood.jpg');
+	background-position: center;
+    background-repeat: no-repeat;
+    background-color: grey;
+    background-size: cover;
+    margin-bottom: 0px;
+    height: 1000px;
+}
