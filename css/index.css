@@ -9,11 +9,27 @@ body {
 	background-size: 100% 100%;*/
 	/*background-image: url('../images/hero_image.jpg');*/
 	/*background-image: url('../images/coverPhoto.jpg');*/
-	background-image: url('../images/wood.jpg');
+	background-image: url('../images/wood-wall1.jpeg');
 	background-position: center;
     background-repeat: no-repeat;
     background-color: grey;
     background-size: cover;
     margin-bottom: 0px;
     height: 1000px;
+}
+
+.jumbotron h1 {
+	font-size: 215px;
+	margin-top: 270px;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+	color: #79797b;
+	font-family: 'Electrolize', sans-serif;
+    margin-bottom: 0px;
+}
+
+.jumbotron h2 {
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+	color: #0070ff;
+	font-family: 'Electrolize', sans-serif;
+	margin-top: 0px;
 }
