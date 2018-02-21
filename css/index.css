@@ -33,3 +33,7 @@ body {
 	font-family: 'Electrolize', sans-serif;
 	margin-top: 0px;
 }
+
+.jumbotron .container {
+    margin-top: 240px;
+}
