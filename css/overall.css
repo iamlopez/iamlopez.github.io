@@ -5,9 +5,18 @@ body {
 }
 
 .navbar-brand {
-	padding: 2px;
+	padding: 0px;
 }
 
-.navbar-brand img {
+/*.navbar-brand img {
 	padding-top: 3px;
+}*/
+
+/*.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
 }
+
+.navbar .navbar-collapse {
+    text-align: center;
+}*/
