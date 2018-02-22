@@ -1,6 +1,7 @@
 body {
   padding-top: 50px;
   padding-bottom: 0px;
+  background-color: #efefef;
   
 }
 
@@ -20,4 +21,8 @@ body {
 
 .navbar .navbar-collapse {
     text-align: center;
+}
+
+hr {
+	border-color: white;
 }

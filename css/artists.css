@@ -1,4 +1,11 @@
-.col-md-3 img {
-	height: 300px;
-    max-width: 300px;
+#spafford {
+	max-width: 587px
+}
+
+.col-md-6 {
+	padding: 0px;
+}
+
+#aq {
+	height: 390px;
 }
