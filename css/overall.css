@@ -15,8 +15,8 @@ body {
 }*/
 
 .navbar-nav li {
-    /*display: inline-block;*/
-    /*float: none;*/
+    display: inline-block;
+    float: none;
     font-family: 'Electrolize', sans-serif;
 }
 
