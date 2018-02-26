@@ -2,6 +2,7 @@ body {
   padding-top: 50px;
   padding-bottom: 0px;
   background-color: #efefef;
+  background-image: url('../images/wood-dark.jpg');
   
 }
 
@@ -21,6 +22,13 @@ body {
 
 .navbar .navbar-collapse {
     text-align: center;
+}
+
+.navbar {
+  background:transparent;
+  border: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
 }
 
 hr {

@@ -1,7 +1,7 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
-body {
+/*body {
   padding-top: 2rem;
-}
+}*/
 
 .jumbotron {
 	text-align: center;
@@ -9,7 +9,7 @@ body {
 	background-size: 100% 100%;*/
 	/*background-image: url('../images/hero_image.jpg');*/
 	/*background-image: url('../images/coverPhoto.jpg');*/
-	background-image: url('../images/wood-dark.jpg');
+	/*background-image: url('../images/wood-dark.jpg');*/
 	background-position: center;
     background-repeat: no-repeat;
     background-color: grey;
