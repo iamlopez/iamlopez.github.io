@@ -1,3 +1,9 @@
+
+@font-face {
+    font-family: Maaz;
+    src: url("../fonts/MaazBold.otf") format("opentype");
+}
+
 /* Move down content because we have a fixed navbar that is 50px tall */
 .jumbotron h1 {
 	font-family: 'Roboto', sans-serif;
@@ -26,16 +32,20 @@
 }*/
 
 .homepage {
-	text-shadow: -1px 0 black,0 1px black,1px 0 black,0 -1px black;
-	color: white;
+	text-shadow: -1px 0 #6e4027  ,0 1px #6e4027 ,1px 0 #6e4027 ,0 -1px #6e4027 ;
+	font-family: 'Libre Baskerville', serif;
+	color: #ededed;
 	margin-top: 75px;
 }
 
 .homepage h2{
 	margin-top: 20px;
 	font-weight: bold;
-	font-family: 'Arvo', serif;
-	font-size: 60px;
+	/*font-family: 'Arvo', serif;*/
+	/*font-family: 'Maaz', serif;*/
+	
+	font-style: italic;
+	font-size: 50px;
 }
 
 .container h2, .container h1, .container h3, .container p  {
@@ -43,13 +53,13 @@
 }
 
 .homepage h1 {
-    font-size: 26px;
+    font-size: 23px;
     margin-top: 50px;
 }
 
 .homepage h3 {
 	font-weight: bold;
-	font-size: 35px;
+	font-size: 25px;
 }
 
 .mgmt-contact {
@@ -69,8 +79,9 @@
 }
 
 .mgmt-contact p {
-    font-size: 25px;
+    font-size: 17px;
     text-align: center;
+    width: 80%;
 }
 
 
@@ -88,12 +99,12 @@
 	}
 
 	.mgmt-contact p {
-    	font-size: 17px;
+    	font-size: 15px;
     	text-align: center;
 	}
 
 	.homepage h2 {
-		font-size: 45px;
+		font-size: 35px;
 	}
 
 	.homepage {
@@ -108,19 +119,23 @@
 	}
 
 	.mgmt-contact p {
-    	font-size: 16px;
+    	font-size: 15px;
     	text-align: center;
 	}
 
 	.homepage h2 {
-		font-size: 40px;
+		font-size: 35px;
 	}
 
 	.homepage h3 {
-		font-size: 30px;
+		font-size: 25px;
 	}
 
 	.homepage {
 		margin-top: 30px;
+	}
+
+	#koltun {
+		font-size: 14px;
 	}
 }
