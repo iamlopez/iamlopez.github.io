@@ -1,11 +1,15 @@
-.col-md-6 {
+
+.image {
   padding: 0px;
-}
-.col-md-6img {
-  display:block;
-  margin:auto;
 }
 
 #spafford {
   max-width: 587px
+}
+
+.image img {
+  display:block;
+  margin:auto;
+  padding: 0px;
+  max-width: 100%
 }
