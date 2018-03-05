@@ -36,6 +36,7 @@
 	font-family: 'Libre Baskerville', serif;
 	color: #ededed;
 	margin-top: 75px;
+	text-align: center;
 }
 
 .homepage h2{
@@ -49,7 +50,7 @@
 }
 
 .container h2, .container h1, .container h3, .container p  {
-	text-align: center;
+	/*text-align: center;*/
 }
 
 .homepage h1 {
@@ -81,7 +82,6 @@
 .mgmt-contact p {
     font-size: 17px;
     text-align: center;
-    width: 80%;
 }
 
 
