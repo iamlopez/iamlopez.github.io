@@ -43,3 +43,17 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+body {
+  /*padding-top: 50px;*/
+  padding-bottom: 0px;
+  background-color: #efefef;
+  background-image: url('../images/plexus-home.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: initial;
+  margin-bottom: 60px;
+	background-size: cover;
+  /*height: 100vh*/
+  background-image-height: 100vh;
+}
