@@ -48,7 +48,7 @@ body {
   /*padding-top: 50px;*/
   padding-bottom: 0px;
   background-color: #efefef;
-  background-image: url('../images/plexus-home.jpg');
+  background-image: url('../images/plex-home.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: initial;
@@ -56,4 +56,20 @@ body {
 	background-size: cover;
   /*height: 100vh*/
   background-image-height: 100vh;
+}
+
+@media (max-width: 768px) {
+  body {
+    /*padding-top: 50px;*/
+    padding-bottom: 0px;
+    background-color: #efefef;
+    background-image: url('../images/plex-home-mobile.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: initial;
+    margin-bottom: 60px;
+  	background-size: cover;
+    /*height: 100vh*/
+    background-image-height: 100vh;
+  }
 }

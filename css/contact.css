@@ -9,7 +9,7 @@ body {
   /*padding-top: 50px;*/
   padding-bottom: 0px;
   background-color: #efefef;
-  background-image: url('../images/contacts-scaled.jpg');
+  background-image: url('../images/PMT.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: initial;
@@ -152,6 +152,22 @@ body {
 		margin-top: 30px;
 	}
 
+}
+
+@media (max-width: 768px) {
+  body {
+    /*padding-top: 50px;*/
+    padding-bottom: 0px;
+    background-color: #efefef;
+    background-image: url('../images/PMT-mobile.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: initial;
+    margin-bottom: 60px;
+  	background-size: cover;
+    /*height: 100vh*/
+    background-image-height: 100vh;
+  }
 }
 
 @media (max-width: 360px) {

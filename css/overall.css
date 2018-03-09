@@ -10,7 +10,7 @@ body {
   background-image: url('../images/wood-dark.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center; 
+  background-position: center;
   margin-bottom: 60px;
   /*height: 100vh*/
   background-image-height: 100vh;
@@ -41,11 +41,12 @@ body {
   border: 0;
   -webkit-box-shadow: none;
   box-shadow: none;
+  color: black;
 }
 
 /*.footer {
   position: relative;
-  margin-top: -150px;  negative value of footer height 
+  margin-top: -150px;  negative value of footer height
   height: 150px;
   clear:both;
   padding-top:20px;
