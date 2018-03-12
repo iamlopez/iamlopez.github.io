@@ -39,3 +39,23 @@
   /* margin: 0px; */
   padding: 10px;
 }
+
+@media (max-width: 414px) {
+  .image img {
+    display:block;
+    margin:auto;
+    padding: 10px;
+    max-width: 100%;
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2), 0 0px 0px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .top-paragraph {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .bio p {
+    /* margin: 0px; */
+    padding: 20px;
+  }
+}
