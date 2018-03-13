@@ -5,8 +5,7 @@
 }
 
 
-body {
-  /*padding-top: 50px;*/
+/* body {
   padding-bottom: 0px;
   background-color: #efefef;
   background-image: url('../images/PMT.jpg');
@@ -15,9 +14,8 @@ body {
   background-position: initial;
   margin-bottom: 60px;
 	background-size: cover;
-  /*height: 100vh*/
   background-image-height: 100vh;
-}
+} */
 /* Move down content because we have a fixed navbar that is 50px tall */
 .jumbotron h1 {
 	font-family: 'Roboto', sans-serif;
@@ -44,6 +42,14 @@ body {
 /*#mgmt-section h2, h1, h3,  p  {
 	text-align: center;
 }*/
+
+.logo img {
+  display:block;
+  margin:auto;
+  /* margin-top: 10px; */
+  padding: 0px;
+  max-width: 100%;
+}
 
 .homepage {
 	text-shadow: -1px 0 #6e4027  ,0 1px #6e4027 ,1px 0 #6e4027 ,0 -1px #6e4027 ;
@@ -154,9 +160,8 @@ body {
 
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   body {
-    /*padding-top: 50px;*/
     padding-bottom: 0px;
     background-color: #efefef;
     background-image: url('../images/contact-Mobile.jpg');
@@ -165,10 +170,9 @@ body {
     background-position: initial;
     margin-bottom: 60px;
   	background-size: cover;
-    /*height: 100vh*/
     background-image-height: 100vh;
   }
-}
+} */
 
 @media (max-width: 360px) {
 	.col-md-6 img {

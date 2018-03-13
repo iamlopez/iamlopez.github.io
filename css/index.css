@@ -60,7 +60,6 @@ body {
 
 @media (max-width: 768px) {
   body {
-    /*padding-top: 50px;*/
     padding-bottom: 0px;
     background-color: #efefef;
     background-image: url('../images/plex-home-mobile.jpeg');
@@ -69,7 +68,6 @@ body {
     background-position: initial;
     margin-bottom: 60px;
   	background-size: cover;
-    /*height: 100vh*/
     background-image-height: 100vh;
   }
 

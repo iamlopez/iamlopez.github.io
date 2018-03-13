@@ -102,9 +102,8 @@ hr {
 	border-color: white;
 }
 
-@media (max-width: 414px) {
+/* @media (max-width: 414px) {
   body {
-    /*padding-top: 50px;*/
     padding-bottom: 0px;
     background-color: #efefef;
     background-image: url('../images/bg-full.jpg');
@@ -113,7 +112,6 @@ hr {
     background-position: center;
     background-size: cover;
     margin-bottom: 60px;
-    /*height: 100vh*/
     background-image-height: 100vh;
   }
-}
+} */
