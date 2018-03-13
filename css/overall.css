@@ -28,10 +28,12 @@ body {
 }*/
 
 .navbar-nav li {
+
     display: inline-block;
     float: none;
     font-family: 'Electrolize', sans-serif;
 }
+
 
 .navbar .navbar-collapse {
     text-align: center;
@@ -42,7 +44,11 @@ body {
   border: 0;
   -webkit-box-shadow: none;
   box-shadow: none;
-  color: black;
+  color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
 }
 
 /*.footer {
@@ -75,7 +81,7 @@ hr {
     /*padding-top: 50px;*/
     padding-bottom: 0px;
     background-color: #efefef;
-    background-image: url('../images/bg-mobile.jpg');
+    background-image: url('../images/bg-full.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
