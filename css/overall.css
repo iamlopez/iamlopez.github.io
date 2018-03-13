@@ -61,6 +61,7 @@ body {
 .dropdown-menu {
   background-color: transparent;
   border: 0px solid rgba(0,0,0,.15);
+  text-align: center;
 }
 
 .dropdown-item {
