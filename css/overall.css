@@ -32,7 +32,8 @@ body {
     display: inline-block;
     float: none;
     /* font-family: 'Electrolize', sans-serif; */
-    Font-Family: 'Raleway', Sans-Serif;
+    /* Font-Family: 'Raleway', Sans-Serif; */
+    font-family: 'Bree Serif', serif;
 }
 
 
@@ -55,6 +56,16 @@ body {
 		1px -1px 0 #000,
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
+}
+
+.dropdown-menu {
+  background-color: transparent;
+  border: 0px solid rgba(0,0,0,.15);
+}
+
+.dropdown-item {
+  color: white;
+  background-color: transparent;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
