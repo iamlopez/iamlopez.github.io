@@ -31,7 +31,8 @@ body {
 
     display: inline-block;
     float: none;
-    font-family: 'Electrolize', sans-serif;
+    /* font-family: 'Electrolize', sans-serif; */
+    Font-Family: 'Raleway', Sans-Serif;
 }
 
 
@@ -49,8 +50,16 @@ body {
 
 .navbar-dark .navbar-nav .nav-link {
   color: white;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 }
 
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
 /*.footer {
   position: relative;
   margin-top: -150px;  negative value of footer height
@@ -70,6 +79,11 @@ body {
   /*text-shadow: -1px 0 white,0 1px white,1px 0 white,0 -1px white;*/
   color: white;
   font-size: small;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 }
 
 hr {

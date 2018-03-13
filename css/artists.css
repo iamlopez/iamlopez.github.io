@@ -1,3 +1,13 @@
+h1 {
+  Font-Family: 'Unica One', Cursive;
+  font-size: 3.5rem;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
 
 .image {
   padding: 0px;
@@ -38,6 +48,29 @@
 .bio p {
   /* margin: 0px; */
   padding: 10px;
+  Font-Family: 'Fira Sans', Sans-Serif;
+  /* font-size: 14pt; */
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.links a {
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.social i{
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 }
 
 @media (max-width: 414px) {
