@@ -28,3 +28,8 @@
 [0312/083117.457:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)
 [0312/083123.459:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)
 [0312/083129.457:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)
+[0313/142202.128:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)
+[0313/142205.120:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)
+[0313/142208.120:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)
+[0313/142211.123:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)
+[0313/142214.121:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)

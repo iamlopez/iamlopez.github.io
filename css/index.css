@@ -72,4 +72,8 @@ body {
     /*height: 100vh*/
     background-image-height: 100vh;
   }
+
+	.dropdown-item {
+  	text-align: center;
+	}
 }
