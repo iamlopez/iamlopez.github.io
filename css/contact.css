@@ -168,7 +168,7 @@
 
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   /* body {
     padding-bottom: 0px;
     background-color: #efefef;
@@ -191,6 +191,7 @@
     padding-right: 50px;
   }
 }
+
 
 @media (max-width: 360px) {
 	.col-md-6 img {
